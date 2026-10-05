@@ -23,6 +23,9 @@ Sales Trend Progression: Multi-year line chart mapping revenue velocity and grow
 📸 Dashboard Preview
 ![Lenskart Telemetry Dashboard Overview](lenskart-telemetry-dashboard-overview.png)
 
+🎬 Interactive Workflow Demo
+![Lenskart Telemetry Pipeline Demo](lenskart-telemetry-pipeline-demo.gif)
+
 ⚙️ How to Run This Project
 Configure Snowflake Warehouse: Run the `realtime_telemetry_setup.sql` script to configure your target database, schemas, and tables.
 
